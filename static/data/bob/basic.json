@@ -1,0 +1,562 @@
+[
+  {
+    "command": "1",
+    "orientation": "h",
+    "damage": "7",
+    "frames": "10",
+    "block": "+1",
+    "hit": "+8",
+    "ch": "+8",
+    "notes": ""
+  },
+  {
+    "command": "2",
+    "orientation": "h",
+    "damage": "8",
+    "frames": "10",
+    "block": "0",
+    "hit": "+6",
+    "ch": "+6",
+    "notes": ""
+  },
+  {
+    "command": "3",
+    "orientation": "h",
+    "damage": "14",
+    "frames": "18",
+    "block": "-9",
+    "hit": "-4",
+    "ch": "-4",
+    "notes": ""
+  },
+  {
+    "command": "4",
+    "orientation": "h",
+    "damage": "15",
+    "frames": "13",
+    "block": "-7",
+    "hit": "+7",
+    "ch": "Launch (JG?)",
+    "notes": ""
+  },
+  {
+    "command": "b+1",
+    "orientation": "m",
+    "damage": "15",
+    "frames": "17~18",
+    "block": "-9~-8",
+    "hit": "+4~+5s",
+    "ch": "+4~+5s",
+    "notes": ""
+  },
+  {
+    "command": "b+2",
+    "orientation": "m",
+    "damage": "10",
+    "frames": "13",
+    "block": "-5",
+    "hit": "+6",
+    "ch": "+6",
+    "notes": ""
+  },
+  {
+    "command": "b+3",
+    "orientation": "m",
+    "damage": "20",
+    "frames": "17~18",
+    "block": "-15~-14",
+    "hit": "KND",
+    "ch": "sKZD",
+    "notes": ""
+  },
+  {
+    "command": "b+4",
+    "orientation": "m",
+    "damage": "15",
+    "frames": "15",
+    "block": "-7",
+    "hit": "+4",
+    "ch": "+4",
+    "notes": ""
+  },
+  {
+    "command": "f+1",
+    "orientation": "h",
+    "damage": "7",
+    "frames": "10",
+    "block": "+1",
+    "hit": "+8",
+    "ch": "+8",
+    "notes": ""
+  },
+  {
+    "command": "f+2",
+    "orientation": "h",
+    "damage": "12",
+    "frames": "12",
+    "block": "-8",
+    "hit": "+3",
+    "ch": "+3",
+    "notes": ""
+  },
+  {
+    "command": "f+3",
+    "orientation": "m",
+    "damage": "18",
+    "frames": "21~26",
+    "block": "-4~+1",
+    "hit": "0~+5s",
+    "ch": "+8~+13s",
+    "notes": ""
+  },
+  {
+    "command": "f+4",
+    "orientation": "h",
+    "damage": "20",
+    "frames": "16~17",
+    "block": "-6~-5",
+    "hit": "KND",
+    "ch": "KND(Throw)",
+    "notes": "Homing, Tail spin"
+  },
+  {
+    "command": "f, F+1",
+    "orientation": "h",
+    "damage": "7",
+    "frames": "10(11~)",
+    "block": "+1",
+    "hit": "+8",
+    "ch": "+8",
+    "notes": ""
+  },
+  {
+    "command": "f, F+2",
+    "orientation": "m",
+    "damage": "25",
+    "frames": "14(15~)",
+    "block": "-8",
+    "hit": "KND",
+    "ch": "KND",
+    "notes": ""
+  },
+  {
+    "command": "f, F+3",
+    "orientation": "m (TJ)",
+    "damage": "18",
+    "frames": "18~21 (19~)",
+    "block": "-7~-4",
+    "hit": "+4~+7",
+    "ch": "KND",
+    "notes": ""
+  },
+  {
+    "command": "f, F+4",
+    "orientation": "m (TJ)",
+    "damage": "12",
+    "frames": "22(23~)",
+    "block": "-9",
+    "hit": "+2",
+    "ch": "+2",
+    "notes": "Homing"
+  },
+  {
+    "command": "d+1",
+    "orientation": "m",
+    "damage": "18",
+    "frames": "18~19s",
+    "block": "-11~-10?",
+    "hit": "+5~+6?s",
+    "ch": "KND",
+    "notes": ""
+  },
+  {
+    "command": "d+2",
+    "orientation": "m",
+    "damage": "12",
+    "frames": "15",
+    "block": "-9",
+    "hit": "+2",
+    "ch": "+2",
+    "notes": ""
+  },
+  {
+    "command": "d+3",
+    "orientation": "l (TC)",
+    "damage": "14",
+    "frames": "19s",
+    "block": "-18",
+    "hit": "-7",
+    "ch": "-7",
+    "notes": ""
+  },
+  {
+    "command": "d+4",
+    "orientation": "l",
+    "damage": "11",
+    "frames": "16",
+    "block": "-12",
+    "hit": "-1",
+    "ch": "-1",
+    "notes": ""
+  },
+  {
+    "command": "d/b+1",
+    "orientation": "Sm (TC)",
+    "damage": "5",
+    "frames": "10s",
+    "block": "-5",
+    "hit": "+6",
+    "ch": "+6",
+    "notes": ""
+  },
+  {
+    "command": "d/b+2",
+    "orientation": "m",
+    "damage": "17",
+    "frames": "14",
+    "block": "-8",
+    "hit": "+6",
+    "ch": "+6",
+    "notes": ""
+  },
+  {
+    "command": "d/b+3",
+    "orientation": "l",
+    "damage": "15",
+    "frames": "20",
+    "block": "-13",
+    "hit": "+2",
+    "ch": "+2",
+    "notes": ""
+  },
+  {
+    "command": "d/b+4",
+    "orientation": "l (TC)",
+    "damage": "15",
+    "frames": "24",
+    "block": "-12",
+    "hit": "-1",
+    "ch": "-1",
+    "notes": ""
+  },
+  {
+    "command": "FC+1",
+    "orientation": "Sm (TC)",
+    "damage": "5",
+    "frames": "10s",
+    "block": "-5",
+    "hit": "+6",
+    "ch": "+6",
+    "notes": ""
+  },
+  {
+    "command": "FC+d/b or d+2",
+    "orientation": "Sm (TC)",
+    "damage": "8",
+    "frames": "11s",
+    "block": "-4",
+    "hit": "+7",
+    "ch": "+7",
+    "notes": ""
+  },
+  {
+    "command": "FC+d/b or d+3",
+    "orientation": "l (TC)",
+    "damage": "12",
+    "frames": "16s",
+    "block": "-17",
+    "hit": "-3",
+    "ch": "-3",
+    "notes": ""
+  },
+  {
+    "command": "FC+d/f+3",
+    "orientation": "l (TC)",
+    "damage": "12",
+    "frames": "16s",
+    "block": "-17",
+    "hit": "-3",
+    "ch": "-3",
+    "notes": ""
+  },
+  {
+    "command": "FC+4",
+    "orientation": "l (TC)",
+    "damage": "10",
+    "frames": "12s",
+    "block": "-15",
+    "hit": "-4",
+    "ch": "-4",
+    "notes": ""
+  },
+  {
+    "command": "WS+1",
+    "orientation": "m",
+    "damage": "11",
+    "frames": "15~16",
+    "block": "-9~-8",
+    "hit": "+2~+3",
+    "ch": "+2~+3",
+    "notes": ""
+  },
+  {
+    "command": "WS+2",
+    "orientation": "m",
+    "damage": "10",
+    "frames": "14",
+    "block": "-7",
+    "hit": "+4",
+    "ch": "+4",
+    "notes": ""
+  },
+  {
+    "command": "WS+3",
+    "orientation": "h",
+    "damage": "17",
+    "frames": "17~18",
+    "block": "-8~-7",
+    "hit": "-3~-2",
+    "ch": "-3~-2",
+    "notes": ""
+  },
+  {
+    "command": "WS+4",
+    "orientation": "m",
+    "damage": "16",
+    "frames": "11~12",
+    "block": "-6~-5",
+    "hit": "+5~+6",
+    "ch": "+5~+6",
+    "notes": ""
+  },
+  {
+    "command": "d/f+1",
+    "orientation": "m",
+    "damage": "13",
+    "frames": "14",
+    "block": "-3",
+    "hit": "+5",
+    "ch": "+5",
+    "notes": ""
+  },
+  {
+    "command": "d/f+2",
+    "orientation": "m",
+    "damage": "14",
+    "frames": "15~16",
+    "block": "-8~-7",
+    "hit": "+8~+9a",
+    "ch": "Launch (JG?)",
+    "notes": ""
+  },
+  {
+    "command": "d/f+3",
+    "orientation": "m",
+    "damage": "14",
+    "frames": "18",
+    "block": "-8",
+    "hit": "+4",
+    "ch": "+4",
+    "notes": ""
+  },
+  {
+    "command": "d/f+4",
+    "orientation": "m",
+    "damage": "16",
+    "frames": "13",
+    "block": "-9",
+    "hit": "+2",
+    "ch": "+2",
+    "notes": ""
+  },
+  {
+    "command": "u/b or u or u/f+1",
+    "orientation": "m (TJ)",
+    "damage": "12",
+    "frames": "18",
+    "block": "-8",
+    "hit": "+3",
+    "ch": "+3",
+    "notes": ""
+  },
+  {
+    "command": "u/b or u+2",
+    "orientation": "h",
+    "damage": "17",
+    "frames": "15",
+    "block": "-12",
+    "hit": "+9",
+    "ch": "+9",
+    "notes": ""
+  },
+  {
+    "command": "u/f+2",
+    "orientation": "h",
+    "damage": "15",
+    "frames": "20",
+    "block": "-4",
+    "hit": "+7",
+    "ch": "+7",
+    "notes": ""
+  },
+  {
+    "command": "u/b+3",
+    "orientation": "mm (TJ)",
+    "damage": "14,20",
+    "frames": "15~16, 24~25",
+    "block": "-13~-12",
+    "hit": "Launch",
+    "ch": "Launch",
+    "notes": ""
+  },
+  {
+    "command": "u/b+3 (First hit only)",
+    "orientation": "m (TJ)",
+    "damage": "14",
+    "frames": "15~16",
+    "block": "-22~-21",
+    "hit": "Launch (JG?)",
+    "ch": "Launch (JG?)",
+    "notes": ""
+  },
+  {
+    "command": "u/b+3 (Second hit only)",
+    "orientation": "m (TJ)",
+    "damage": "20",
+    "frames": "24~25",
+    "block": "-13~-12",
+    "hit": "Launch (JG?)",
+    "ch": "Launch (JG?)",
+    "notes": ""
+  },
+  {
+    "command": "u+3",
+    "orientation": "m (TJ)",
+    "damage": "20",
+    "frames": "20",
+    "block": "-13",
+    "hit": "KND",
+    "ch": "KND",
+    "notes": ""
+  },
+  {
+    "command": "u/f+3",
+    "orientation": "m (TJ)",
+    "damage": "20",
+    "frames": "20",
+    "block": "-13",
+    "hit": "Launch (JG?)",
+    "ch": "Launch (JG?)",
+    "notes": ""
+  },
+  {
+    "command": "u/b+4",
+    "orientation": "m (TJ)",
+    "damage": "11",
+    "frames": "15",
+    "block": "-19",
+    "hit": "-8",
+    "ch": "-8",
+    "notes": ""
+  },
+  {
+    "command": "u or u/f+4",
+    "orientation": "m (TJ)",
+    "damage": "14",
+    "frames": "25",
+    "block": "-9",
+    "hit": "0",
+    "ch": "0",
+    "notes": ""
+  },
+  {
+    "command": "SS+1",
+    "orientation": "h",
+    "damage": "7",
+    "frames": "10(11~)",
+    "block": "+1",
+    "hit": "+8",
+    "ch": "+8",
+    "notes": ""
+  },
+  {
+    "command": "SS+2",
+    "orientation": "h",
+    "damage": "8",
+    "frames": "10(11~)",
+    "block": "0",
+    "hit": "+6",
+    "ch": "+6",
+    "notes": ""
+  },
+  {
+    "command": "SS+3",
+    "orientation": "h",
+    "damage": "14",
+    "frames": "18(19~)",
+    "block": "-9",
+    "hit": "-4",
+    "ch": "-4",
+    "notes": ""
+  },
+  {
+    "command": "SS+4",
+    "orientation": "h",
+    "damage": "15",
+    "frames": "13(14~)",
+    "block": "-7",
+    "hit": "+7",
+    "ch": "Launch (JG?)",
+    "notes": ""
+  },
+  {
+    "command": "BT 1 or 2",
+    "orientation": "h",
+    "damage": "15",
+    "frames": "8",
+    "block": "-8",
+    "hit": "+3",
+    "ch": "+3",
+    "notes": ""
+  },
+  {
+    "command": "BT 3 or 4",
+    "orientation": "h",
+    "damage": "25",
+    "frames": "10",
+    "block": "-8",
+    "hit": "KND",
+    "ch": "KND",
+    "notes": ""
+  },
+  {
+    "command": "BT d+1",
+    "orientation": "Sm",
+    "damage": "10",
+    "frames": "10s",
+    "block": "-2",
+    "hit": "+9",
+    "ch": "+9",
+    "notes": ""
+  },
+  {
+    "command": "BT d+2",
+    "orientation": "m",
+    "damage": "17?",
+    "frames": "15",
+    "block": "-9",
+    "hit": "KND",
+    "ch": "CS",
+    "notes": ""
+  },
+  {
+    "command": "BT d+3 or 4",
+    "orientation": "l",
+    "damage": "12",
+    "frames": "10s",
+    "block": "-11",
+    "hit": "+3",
+    "ch": "+3",
+    "notes": ""
+  }
+]
